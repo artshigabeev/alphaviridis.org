@@ -1,0 +1,319 @@
+# Webalizer V2.20-01 Incremental Data - 01/05/2017 02:06:26
+2017 1 5 2 6 26
+125 97 34 22 4 18 26155223 51 49 0
+5 10 21 1 5
+28 22 8341350 11 9 8
+25 20 1466293 10 10 10
+21 13 494022 14 15 14
+41 32 14822528 16 15 15
+10 10 1031030 5 2 2
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+7 6 516071 1
+1 1 44540 1
+19 16 1299761 8
+11 8 650626 4
+2 1 45037 1
+1 1 44540 1
+2 2 89080 2
+2 1 45037 1
+4 2 90074 2
+3 2 89577 2
+4 2 121933 3
+3 2 89577 2
+2 2 89080 2
+1 0 497 0
+2 0 994 1
+1 1 44540 1
+9 4 180645 5
+21 21 14328115 2
+2 2 89080 2
+12 12 7600153 1
+2 1 45037 1
+1 1 44540 1
+0 0 0 0
+13 9 606689 7
+0
+0
+0
+97
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+28
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/fonts/fontawesome-webfont.ttf
+0 1 119377232 138204 0 0
+/
+0 43 0 1915220 43 18
+/assets/images/slider_img2.jpg
+0 2 0 6395050 0 0
+/assets/php/antispam-contact.php
+0 2 0 118 0 0
+/assets/css/charity.min.css
+0 7 0 409024 0 0
+/assets/js/contact.min.js
+0 1 119376736 255027 0 0
+/assets/css/theme.min.css
+0 7 0 1517558 0 0
+/assets/css/bootstrap.min.css
+0 7 0 835450 0 0
+/assets/css/extras.min.css
+0 8 0 611192 0 0
+/assets/images/grid-90.png
+0 1 119377104 73 0 0
+/assets/images/avdf-logo.png
+0 2 0 166794 0 0
+/assets/images/rev-slider/timer.png
+0 1 119376976 81 0 0
+/assets/images/ADF_Black_logo_small.png
+0 2 0 115782 0 0
+/googlea575fa849afb7d9c.html
+0 1 0 53 1 0
+/google66ba80ae6ff008b0.html
+0 1 0 53 1 0
+/assets/images/avg_Logo white.png
+0 1 119377360 5669608 0 0
+/assets/js/theme.min.js
+0 1 119376864 416762 0 0
+/assets/images/slider_img4.png
+0 2 0 2807598 0 0
+/assets/images/slider_img3.png
+0 2 0 2233454 0 0
+/assets/images/Water-Splash.jpg
+0 2 0 2443338 0 0
+/assets/js/revolution.min.js
+0 1 119376608 203608 0 0
+/assets/images/slider_img1.png
+0 2 0 7260 0 0
+# End Of Table - urls
+# -sites- (monthly)
+baiduspider-180-76-15-153.crawl.baidu.com
+0 1 0 497 1 1483266713
+-
+46.165.197.141
+0 2 1 45037 1 1483410380
+/
+202.46.54.24
+0 1 1 44540 1 1483269676
+/
+55.e1.2bd0.ip4.static.sl-reverse.com
+0 2 0 994 1 1483540164
+-
+baiduspider-180-76-15-31.crawl.baidu.com
+0 1 1 44540 1 1483320794
+/
+46.101.98.208
+0 1 1 44540 1 1483551648
+/
+tor-exit.ohdoom.net
+0 1 1 44540 1 1483392731
+/
+lh28409.voxility.net
+0 1 1 44540 1 1483495675
+/
+104.238.180.234.vultr.com
+0 1 1 44540 1 1483409242
+/
+baiduspider-180-76-15-5.crawl.baidu.com
+0 1 0 497 1 1483527156
+-
+baiduspider-180-76-15-9.crawl.baidu.com
+0 1 1 44540 1 1483573828
+/
+rate-limited-proxy-66-249-91-64.google.com
+0 1 0 497 1 1483486002
+-
+hosted-by.leaseweb.com
+0 6 3 135111 3 1483501840
+/
+crawl-66-249-69-190.googlebot.com
+0 10 8 822383 3 1483512521
+/
+rate-limited-proxy-66-249-91-95.google.com
+0 1 1 53 1 1483485427
+/google66ba80ae6ff008b0.html
+crawl-66-249-75-25.googlebot.com
+0 8 7 498423 5 1483581982
+/
+94.23.75.242
+0 1 1 44540 1 1483507484
+/
+ec2-54-173-241-157.compute-1.amazonaws.com
+0 6 5 516012 1 1483328940
+/
+crawl-66-249-69-132.googlebot.com
+0 9 6 282623 5 1483581947
+/
+baiduspider-180-76-15-26.crawl.baidu.com
+0 1 1 44540 1 1483411141
+/
+baiduspider-180-76-15-8.crawl.baidu.com
+0 1 1 44540 1 1483243477
+/
+crawl-66-249-75-22.googlebot.com
+0 8 5 268412 2 1483346405
+/
+rate-limited-proxy-66-249-91-66.google.com
+0 2 1 550 1 1483485428
+-
+customer-189-216-112-236.cablevision.net.mx
+0 12 12 7600153 1 1483298875
+/
+63.243.252.165
+0 1 1 76399 0 0
+-
+46.166.190.203
+0 1 1 44540 1 1483265593
+/
+crawl-66-249-69-129.googlebot.com
+0 5 5 329369 3 1483547310
+/
+baiduspider-180-76-15-14.crawl.baidu.com
+0 1 1 44540 1 1483561930
+/
+bfb64efa.virtua.com.br
+0 20 20 14283575 1 1483550788
+/
+crawl-66-249-75-19.googlebot.com
+0 8 8 667102 4 1483512616
+/
+46.229.164.98
+0 3 0 1491 0 0
+-
+46.229.164.99
+0 3 0 1491 0 0
+-
+tor-exit-readme.memcpy.io
+0 1 1 44540 1 1483348995
+/
+69.58.178.57
+0 3 1 45534 1 1483288840
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+crawl-66-249-69-190.googlebot.com
+0 3 3 394576 0 0
+-
+crawl-66-249-75-25.googlebot.com
+0 3 3 319766 1 1483581982
+/
+crawl-66-249-69-132.googlebot.com
+0 1 1 44540 1 1483581947
+/
+crawl-66-249-69-129.googlebot.com
+0 1 1 76399 0 0
+-
+crawl-66-249-75-19.googlebot.com
+0 2 2 195749 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+- (Direct Request)
+0 76
+http://top10-way.com/try.php
+0 2
+http://alphaviridis.org/
+1 39
+http://www.alphaviridis.org/
+1 8
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)
+0 8
+Mozilla/5.0 (compatible; MJ12bot/v1.4.7; http://mj12bot.com/)
+0 8
+Mozilla/5.0 (compatible; SemrushBot/1.1~bl; +http://www.semrush.com/bot.html)
+0 6
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.93 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; Google-Site-Verification/1.0)
+0 4
+CheckMarkNetwork/1.0 (+http://www.checkmarknetwork.com/spider.html)
+0 1
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 47
+roboto
+0 4
+Mozilla/5.0 (compatible; SiteExplorer/1.1b; +http://siteexplorer.info/Backlink-Checker-Spider/)
+0 2
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:14.0; ips-agent) Gecko/20100101 Firefox/14.0.1
+0 2
+BlackBerry9000/4.6.0.167 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/102 ips-agent
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36
+0 12
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
+0 20
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.90 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 4
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
